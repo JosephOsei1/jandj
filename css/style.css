@@ -162,11 +162,11 @@ img {
 }
 #body.home div.header img {
 	display: block;
-	left: 50%;
-	margin: 0 auto 0 -563px;
-	padding: 0;
-	position: absolute;
-	width: 1126px;
+    left: 0%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 1126px;
 }
 #body.home div.header div {
 	margin: 0 auto;
